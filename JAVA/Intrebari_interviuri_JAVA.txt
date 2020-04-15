@@ -1,0 +1,2 @@
+Java Core: https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+String-uri in Java: https://www.journaldev.com/1321/java-string-interview-questions-and-answers

@@ -1,0 +1,28 @@
+﻿  QuickSort.cpp
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(43): error C2059: syntax error: '='
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(43): error C2059: syntax error: ')'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(44): error C2059: syntax error: ';'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(46): error C2143: syntax error: missing ';' before '<<'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(48): error C2143: syntax error: missing ';' before '<<'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(48): error C2086: 'int cout': redefinition
+  c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(46): note: see declaration of 'cout'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(50): error C2065: 'a': undeclared identifier
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(50): error C2065: 'n': undeclared identifier
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(50): error C2365: 'quicksort': redefinition; previous definition was 'function'
+  c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(26): note: see declaration of 'quicksort'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2059: syntax error: 'for'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2143: syntax error: missing ')' before ';'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2143: syntax error: missing ';' before '<'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2143: syntax error: missing ';' before '++'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2086: 'int i': redefinition
+  c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): note: see declaration of 'i'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2059: syntax error: ')'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2143: syntax error: missing ';' before '{'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(52): error C2447: '{': missing function header (old-style formal list?)
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(56): error C2059: syntax error: 'return'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(57): error C2059: syntax error: '}'
+c:\users\dan's pc\source\repos\quicksort\quicksort\quicksort.cpp(57): error C2143: syntax error: missing ';' before '}'
